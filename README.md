@@ -1,4 +1,8 @@
 # belajar-lks-cloudcomputing
+``instalasi terraform windows``
+1. download di website terraform
+   
+
 1. ``terraform init``
 
    inisialisasi project terraform
