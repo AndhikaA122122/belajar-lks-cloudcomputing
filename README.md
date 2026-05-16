@@ -1,1 +1,1 @@
-1. [Instalasi AWS CLI](instalasi aws-cli.md)
+1. [Instalasi AWS CLI]("instalasi aws-cli.md")
