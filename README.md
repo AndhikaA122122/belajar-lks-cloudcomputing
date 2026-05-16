@@ -3,7 +3,7 @@
 
    inisialisasi projek terraform
  ```
-terraform
+terraform init
 ```
 3. ``terraform plan``
 4. ``terraform apply``
