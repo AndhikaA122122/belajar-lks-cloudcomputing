@@ -2,7 +2,7 @@
 
 alur kerja (workflow) yang sering dilakukan pada `terraform` adalah:
 
-init $\rightarrow$ fmt $\rightarrow$ validate $\rightarrow$ plan $\rightarrow$ apply
+init $\rightarrow$ fmt $\rightarrow$ validate $\rightarrow$ plan $\rightarrow$ apply $\rightarrow$ destroy
 
 ## 1. `terraform fmt` (Format)
 
