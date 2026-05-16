@@ -1,7 +1,9 @@
 # belajar-lks-cloudcomputing
-1. ``terraform innit``
-2. ``terraform plan``
-3. ``terraform apply``
+1. ``terraform init``
+   inisialisasi projek terraform
+   ```terraform```
+3. ``terraform plan``
+4. ``terraform apply``
 
 hapus data
 ``terraform destroy``
