@@ -1,12 +1,34 @@
 # belajar-lks-cloudcomputing
 1. ``terraform init``
 
-   inisialisasi projek terraform
+   inisialisasi project terraform
  ```
 terraform init
 ```
+2. ``terraform validate``
+
+   validasi konfigurasi terraform
+   ```
+   terraform validate
+   ```
+   
 3. ``terraform plan``
+   menampilkan rencana infrastruktur yang akan dibangun
+   ```
+   terraform plan
+   ```
+   
 4. ``terraform apply``
+   menjalankan konfigurasi untuk membangun infrastruktur
+   ```
+   terraform apply
+   ```
+
+5. ``terraform destroy``
+   menghapus infrastruktur yang sudah di buat di cloud
+   ```
+   terraform destroy
+   ```
 
 hapus data
 ``terraform destroy``
