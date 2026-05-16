@@ -1,7 +1,7 @@
 # belajar-lks-cloudcomputing
-``terraform innit``
-``terraform plan``
-``terraform apply``
+1. ``terraform innit``
+2. ``terraform plan``
+3. ``terraform apply``
 
 hapus data
 ``terraform destroy``
